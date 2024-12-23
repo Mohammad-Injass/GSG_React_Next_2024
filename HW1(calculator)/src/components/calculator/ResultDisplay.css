@@ -1,0 +1,9 @@
+.resultDiv{
+    color:#f0f0f0;
+    font-size: 24px;
+    padding: 10px;
+    background-color: #aaa;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: right;
+  }

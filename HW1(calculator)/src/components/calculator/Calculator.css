@@ -1,0 +1,48 @@
+.mianDiv{
+    width: 200px;
+
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #d8d8d8;
+
+}
+
+.numberDiv{
+    font-size: 18px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttonOp{
+font-size: 18px;
+padding: 10px;
+background-color: #f39c12;
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.buttonEquals_Clear{
+font-size: 18px;
+padding: 10px;
+background-color: #dc3545;
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+.buttonEquals{
+background-color: #28a745;
+grid-column: span 3;
+}
+.buttonClear{
+background-color: #dc3545;
+
+}
